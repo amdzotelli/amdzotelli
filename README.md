@@ -7,7 +7,7 @@
 [![HackerRank](https://img.shields.io/badge/-HackerRank-forestgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/amzotelli)
 
 - 🙋  I'm Amanda and my pronouns are she/her<br>
-- 💻  I'm a Software Developer at Mercado Livre <br>
+- 💻  I'm a Software Developer at Mercado Libre <br>
 - 👩‍🎓  I have a bachelor's degree in Graphic Design and I made my career transition with <a href="https://github.com/betrybe"><b>Trybe</b></a> 's Web Development Course 
 - ✨  I love studying and constantly learning new things is something that drives me :)<br>
 - 🐶  Fun fact: I love animals and I own of several pets <br>
