@@ -1,10 +1,11 @@
 <div align="left">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋 </h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋 </h2> <img src="https://octodex.github.com/images/pusheencat.png" align="right" width="230" />
 </div><br>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amzotelli)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amzotelli@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-forestgreen?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/amzotelli)
+
 
 - 🙋  I'm Amanda and my pronouns are she/her<br>
 - 💻  I'm a Software Developer at Mercado Libre <br>
@@ -12,6 +13,7 @@
 - ✨  I love studying and constantly learning new things is something that drives me :)<br>
 - 🐶  Fun fact: I love animals and I own of several pets <br>
 - 📚  Currently learning <b>Java</b> <br><br>
+
 
 #### ``` • 𝚂𝚘𝚖𝚎 𝚜𝚔𝚒𝚕𝚕𝚜  ```
 
